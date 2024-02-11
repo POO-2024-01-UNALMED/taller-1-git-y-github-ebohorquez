@@ -1,1 +1,1 @@
-No permite hacer un commit.
+No permite hacer un commit
