@@ -1,0 +1,1 @@
+"Las carpetas vacías no se consideran como cambios o adiciones de nuevos archivos al proyecto."
