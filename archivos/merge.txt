@@ -1,3 +1,6 @@
 Estefanya Bohorquez Cano
 17
 Aprender todos los conceptos necesarios y con claridad de programación orientada a objetos
+Las carpetas vacías no se consideran como cambios o adiciones de nuevos archivos al proyecto.
+Puede presentar problemas con los archivos y confusiones, en el caso de pasar esto tendremos 
+manualmente resolver el conflicto antes de hacer push, por esto es mejor tener cuidado de no hacerlo.
